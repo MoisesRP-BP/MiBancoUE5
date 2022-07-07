@@ -339,3 +339,6 @@
 [0707/132028.855:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0707/132028.971:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0707/132033.860:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0707/153654.192:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0707/153659.288:WARNING:spdy_session.cc(3308)] Received WINDOW_UPDATE for invalid stream 7
+[0707/153659.288:WARNING:spdy_session.cc(3308)] Received WINDOW_UPDATE for invalid stream 7
