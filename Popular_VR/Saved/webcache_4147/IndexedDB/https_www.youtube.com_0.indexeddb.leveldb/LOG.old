@@ -1,0 +1,5 @@
+2022/07/08-15:42:08.857 7668 Reusing MANIFEST D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/08-15:45:22.586 1e28 Level-0 table #5: started
+2022/07/08-15:45:22.693 1e28 Level-0 table #5: 51464 bytes OK
+2022/07/08-15:45:22.750 1e28 Delete type=0 #3
+2022/07/08-15:45:22.751 1e28 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
