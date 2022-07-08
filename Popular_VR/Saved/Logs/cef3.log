@@ -363,3 +363,57 @@
 [0707/161821.366:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 7
 [0707/161821.372:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 5
 [0707/161822.180:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0708/134551.176:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0708/135018.652:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 25
+[0708/135705.305:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135705.344:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135907.515:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135907.537:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135912.520:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135912.548:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135917.524:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135917.563:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135922.529:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135922.577:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135927.536:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135927.583:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135932.540:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/135932.601:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/141735.993:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/141736.013:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143518.135:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143518.138:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143523.140:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143523.154:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143531.880:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143531.885:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143532.817:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143532.836:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143536.404:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143536.412:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143536.884:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143536.909:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143537.821:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/143537.843:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0708/145912.488:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0708/145939.603:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 15
+[0708/153734.922:WARNING:spdy_session.cc(3308)] Received WINDOW_UPDATE for invalid stream 5
+[0708/153734.922:WARNING:spdy_session.cc(3308)] Received WINDOW_UPDATE for invalid stream 5
+[0708/154209.533:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0708/154209.778:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0708/154211.637:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0708/154211.637:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0708/154211.644:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0708/154211.645:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0708/154211.661:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0708/154211.668:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0708/154212.924:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/decrypting_video_decoder.cc\",\"line\":53}],\"status_code\":264,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"DecryptingVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[0708/154637.906:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0708/154637.906:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0708/154637.906:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0708/154637.916:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0708/154637.916:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0708/154637.916:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0708/154637.976:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0708/154637.977:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0708/154638.236:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/decrypting_video_decoder.cc\",\"line\":53}],\"status_code\":264,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"DecryptingVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
