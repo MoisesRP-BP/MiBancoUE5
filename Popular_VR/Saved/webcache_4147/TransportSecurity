@@ -23,6 +23,12 @@
       "sts_include_subdomains": false,
       "sts_observed": 1657407688.403768
    },
+   "BFURUi5Wmkaq2CqnY/AEvTc3dMf9beTDKKMJEjyhYw8=": {
+      "expiry": 1673483722.236979,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1657413322.236982
+   },
    "ChSF1RRXppsgAdOygcllXLHe2gIuuGfxoDnUQJMY+34=": {
       "expiry": 1688744637.277348,
       "mode": "force-https",
