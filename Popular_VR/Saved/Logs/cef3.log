@@ -364,3 +364,9 @@
 [0707/161821.372:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 5
 [0707/161822.180:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0707/163112.673:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0709/190129.737:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0709/190130.799:WARNING:spdy_session.cc(3308)] Received WINDOW_UPDATE for invalid stream 5
+[0709/190130.807:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 5
+[0709/202047.107:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
+[0709/202047.122:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[0709/202047.444:WARNING:gpu_process_host.cc(972)] Reinitialized the GPU process after a crash. The reported initialization time was 158 ms
