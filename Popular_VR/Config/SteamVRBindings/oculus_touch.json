@@ -85,6 +85,17 @@
 					}
 				},
 				{
+					"mode": "button",
+					"path": "/user/hand/left/input/x",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/Interact"
+						}
+					}
+				},
+				{
 					"mode": "trigger",
 					"path": "/user/hand/left/input/grip",
 					"inputs":

@@ -436,3 +436,18 @@
 [0715/154523.512:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 51
 [0715/164047.887:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0715/171801.221:ERROR:browser_info_manager.cc(560)] Timeout of new browser info response for frame process id 18 and routing id 33
+[0716/100420.054:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0716/100421.209:WARNING:storage_block-inl.h(146)] Failed data load.
+[0716/100423.527:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0716/101637.188:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 43
+[0716/101658.046:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 89
+[0716/101737.862:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 111
+[0716/103301.335:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0716/103733.194:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0716/104245.199:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 43
+[0716/104245.199:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 45
+[0716/123657.881:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0716/141840.193:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0716/143150.052:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 33
+[0716/143204.517:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 69
+[0716/143218.667:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 111

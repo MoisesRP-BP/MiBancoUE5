@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.popular_vr-20280985.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/Rumarino/Desktop/MiBancoUE5/Popular_VR/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/Rumarino/Documents/Unreal Projects/MiBancoUE5/Popular_VR/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
