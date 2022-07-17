@@ -172,6 +172,10 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/Interact",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/VREditor_Left_WorldMovement",
 			"type": "boolean"
 		},
@@ -578,6 +582,7 @@
 			"/actions/main/in/MenuToggleRight": "MenuToggleRight",
 			"/actions/main/in/TriggerLeft": "TriggerLeft",
 			"/actions/main/in/TriggerRight": "TriggerRight",
+			"/actions/main/in/Interact": "Interact",
 			"/actions/main/in/VREditor_Left_WorldMovement": "VREditor_Left_WorldMovement",
 			"/actions/main/in/VREditor_Left_Modifier": "VREditor_Left_Modifier",
 			"/actions/main/in/VREditor_Left_TrackpadDown": "VREditor_Left_TrackpadDown",
