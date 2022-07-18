@@ -1,27 +1,20 @@
-<<<<<<< HEAD
-2022/07/16-20:05:22.725 58d8 Reusing MANIFEST D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Session Storage/MANIFEST-000001
-2022/07/16-20:05:22.799 58d8 Recovering log #3
-2022/07/16-20:05:22.800 58d8 Reusing old log D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Session Storage/000003.log 
-2022/07/16-20:11:27.663 2700 Level-0 table #5: started
-2022/07/16-20:11:27.787 2700 Level-0 table #5: 12066 bytes OK
-2022/07/16-20:11:27.914 2700 Delete type=0 #3
-=======
-2022/07/16-14:18:37.727 1094 Reusing MANIFEST C:/Users/Rumarino/Documents/Unreal Projects/MiBancoUE5/Popular_VR/Saved/webcache_4147\Session Storage/MANIFEST-000001
-2022/07/16-14:18:37.728 1094 Recovering log #14
-2022/07/16-14:18:37.729 1094 Reusing old log C:/Users/Rumarino/Documents/Unreal Projects/MiBancoUE5/Popular_VR/Saved/webcache_4147\Session Storage/000014.log 
-2022/07/16-14:27:55.340 2144 Level-0 table #18: started
-2022/07/16-14:27:55.342 2144 Level-0 table #18: 11723 bytes OK
-2022/07/16-14:27:55.344 2144 Delete type=0 #14
-2022/07/16-14:27:55.344 2144 Compacting 4@0 + 1@1 files
-2022/07/16-14:27:55.347 2144 Generated table #19@0: 1544 keys, 20637 bytes
-2022/07/16-14:27:55.347 2144 Compacted 4@0 + 1@1 files => 20637 bytes
-2022/07/16-14:27:55.348 2144 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/07/16-14:27:55.348 2144 Delete type=2 #8
-2022/07/16-14:27:55.348 2144 Delete type=2 #11
-2022/07/16-14:27:55.348 2144 Delete type=2 #13
-2022/07/16-14:27:55.348 2144 Delete type=2 #15
-2022/07/16-14:27:55.348 2144 Delete type=2 #18
-2022/07/16-14:34:10.452 2144 Level-0 table #21: started
-2022/07/16-14:34:10.454 2144 Level-0 table #21: 11661 bytes OK
-2022/07/16-14:34:10.455 2144 Delete type=0 #17
->>>>>>> 4d94b3e13ebaf780d9ceb8d2b0ba09f28c499e31
+2022/07/17-20:09:10.650 3df0 Reusing MANIFEST D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Session Storage/MANIFEST-000001
+2022/07/17-20:09:10.650 3df0 Recovering log #24
+2022/07/17-20:09:10.650 3df0 Reusing old log D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Session Storage/000024.log 
+2022/07/17-20:14:50.954 6bdc Level-0 table #28: started
+2022/07/17-20:14:51.008 6bdc Level-0 table #28: 12451 bytes OK
+2022/07/17-20:14:51.041 6bdc Delete type=0 #24
+2022/07/17-20:14:51.058 6bdc Compacting 4@0 + 0@1 files
+2022/07/17-20:14:51.132 6bdc Generated table #29@0: 1006 keys, 15266 bytes
+2022/07/17-20:14:51.132 6bdc Compacted 4@0 + 0@1 files => 15266 bytes
+2022/07/17-20:14:51.166 6bdc compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/17-20:14:51.166 6bdc Delete type=2 #7
+2022/07/17-20:14:51.167 6bdc Delete type=2 #23
+2022/07/17-20:14:51.167 6bdc Delete type=2 #25
+2022/07/17-20:14:51.167 6bdc Delete type=2 #28
+2022/07/17-20:33:50.311 6bdc Level-0 table #31: started
+2022/07/17-20:33:50.749 6bdc Level-0 table #31: 12007 bytes OK
+2022/07/17-20:33:50.890 6bdc Delete type=0 #27
+2022/07/17-20:51:35.292 6bdc Level-0 table #33: started
+2022/07/17-20:51:35.336 6bdc Level-0 table #33: 11806 bytes OK
+2022/07/17-20:51:35.393 6bdc Delete type=0 #30
