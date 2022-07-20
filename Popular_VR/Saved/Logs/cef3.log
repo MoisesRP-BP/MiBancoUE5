@@ -758,3 +758,6 @@
 [0717/205426.954:WARNING:spdy_session.cc(3308)] Received WINDOW_UPDATE for invalid stream 291
 [0717/205426.954:WARNING:spdy_session.cc(3308)] Received WINDOW_UPDATE for invalid stream 291
 [0717/205426.954:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 291
+[0720/101116.540:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0720/101155.375:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0720/101156.821:WARNING:storage_block-inl.h(146)] Failed data load.

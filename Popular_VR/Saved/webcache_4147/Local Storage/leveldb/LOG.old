@@ -1,3 +1,8 @@
-2022/07/17-20:07:03.500 c80 Reusing MANIFEST D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
-2022/07/17-20:07:03.500 c80 Recovering log #10
-2022/07/17-20:07:03.501 c80 Reusing old log D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Local Storage\leveldb/000010.log 
+2022/07/17-20:09:11.099 61d8 Reusing MANIFEST D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2022/07/17-20:09:11.099 61d8 Recovering log #10
+2022/07/17-20:09:11.100 61d8 Level-0 table #12: started
+2022/07/17-20:09:11.151 61d8 Level-0 table #12: 8889 bytes OK
+2022/07/17-20:09:11.184 61d8 Delete type=0 #10
+2022/07/17-20:46:44.182 6bdc Level-0 table #15: started
+2022/07/17-20:46:44.227 6bdc Level-0 table #15: 8454 bytes OK
+2022/07/17-20:46:44.260 6bdc Delete type=0 #13

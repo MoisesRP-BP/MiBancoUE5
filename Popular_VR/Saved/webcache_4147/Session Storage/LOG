@@ -1,20 +1,7 @@
-2022/07/17-20:09:10.650 3df0 Reusing MANIFEST D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Session Storage/MANIFEST-000001
-2022/07/17-20:09:10.650 3df0 Recovering log #24
-2022/07/17-20:09:10.650 3df0 Reusing old log D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Session Storage/000024.log 
-2022/07/17-20:14:50.954 6bdc Level-0 table #28: started
-2022/07/17-20:14:51.008 6bdc Level-0 table #28: 12451 bytes OK
-2022/07/17-20:14:51.041 6bdc Delete type=0 #24
-2022/07/17-20:14:51.058 6bdc Compacting 4@0 + 0@1 files
-2022/07/17-20:14:51.132 6bdc Generated table #29@0: 1006 keys, 15266 bytes
-2022/07/17-20:14:51.132 6bdc Compacted 4@0 + 0@1 files => 15266 bytes
-2022/07/17-20:14:51.166 6bdc compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/07/17-20:14:51.166 6bdc Delete type=2 #7
-2022/07/17-20:14:51.167 6bdc Delete type=2 #23
-2022/07/17-20:14:51.167 6bdc Delete type=2 #25
-2022/07/17-20:14:51.167 6bdc Delete type=2 #28
-2022/07/17-20:33:50.311 6bdc Level-0 table #31: started
-2022/07/17-20:33:50.749 6bdc Level-0 table #31: 12007 bytes OK
-2022/07/17-20:33:50.890 6bdc Delete type=0 #27
-2022/07/17-20:51:35.292 6bdc Level-0 table #33: started
-2022/07/17-20:51:35.336 6bdc Level-0 table #33: 11806 bytes OK
-2022/07/17-20:51:35.393 6bdc Delete type=0 #30
+2022/07/20-10:11:57.633 3bfc Reusing MANIFEST C:/Users/Rumarino/Documents/Unreal Projects/MiBancoUE5/Popular_VR/Saved/webcache_4147\Session Storage/MANIFEST-000001
+2022/07/20-10:11:57.633 3bfc Recovering log #32
+2022/07/20-10:11:57.634 3bfc Reusing old log C:/Users/Rumarino/Documents/Unreal Projects/MiBancoUE5/Popular_VR/Saved/webcache_4147\Session Storage/000032.log 
+2022/07/20-10:11:57.634 3bfc Delete type=2 #5
+2022/07/20-10:11:57.634 3bfc Delete type=2 #29
+2022/07/20-10:11:57.634 3bfc Delete type=2 #31
+2022/07/20-10:11:57.634 3bfc Delete type=2 #33
