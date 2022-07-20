@@ -1,6 +1,0 @@
-Breadcrumbs 'RHIThread'
-Context 1/3
-	00 Scene
-	01 PostProcessing
-	02 View0
-	03 TemporalSuperResolution() 1083x1098 -> 2528x2564

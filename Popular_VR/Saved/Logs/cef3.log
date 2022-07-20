@@ -758,6 +758,7 @@
 [0717/205426.954:WARNING:spdy_session.cc(3308)] Received WINDOW_UPDATE for invalid stream 291
 [0717/205426.954:WARNING:spdy_session.cc(3308)] Received WINDOW_UPDATE for invalid stream 291
 [0717/205426.954:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 291
+<<<<<<< HEAD
 [0717/214356.473:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0717/214423.803:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 37
 [0719/085447.486:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
@@ -9167,3 +9168,8 @@
 [0720/091135.114:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 25
 [0720/091135.115:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 43
 [0720/091135.116:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 27
+=======
+[0720/101116.540:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0720/101155.375:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0720/101156.821:WARNING:storage_block-inl.h(146)] Failed data load.
+>>>>>>> ed2718d3d19eec7d0dbe81f7e1a7752651523509

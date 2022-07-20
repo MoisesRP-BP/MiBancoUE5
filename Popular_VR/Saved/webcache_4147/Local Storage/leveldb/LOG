@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 2022/07/20-10:07:21.086 3e00 Reusing MANIFEST D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
 2022/07/20-10:07:21.087 3e00 Recovering log #21
 2022/07/20-10:07:21.087 3e00 Reusing old log D:/GitHub/MiBancoUE5/Popular_VR/Saved/webcache_4147\Local Storage\leveldb/000021.log 
+=======
+2022/07/20-10:11:58.269 33cc Reusing MANIFEST C:/Users/Rumarino/Documents/Unreal Projects/MiBancoUE5/Popular_VR/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2022/07/20-10:11:58.270 33cc Recovering log #14
+2022/07/20-10:11:58.271 33cc Reusing old log C:/Users/Rumarino/Documents/Unreal Projects/MiBancoUE5/Popular_VR/Saved/webcache_4147\Local Storage\leveldb/000014.log 
+2022/07/20-10:11:58.271 33cc Delete type=2 #9
+2022/07/20-10:11:58.271 33cc Delete type=2 #12
+2022/07/20-10:11:58.271 33cc Delete type=2 #15
+>>>>>>> ed2718d3d19eec7d0dbe81f7e1a7752651523509
